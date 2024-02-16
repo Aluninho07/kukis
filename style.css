@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
 :root{
     --branco: #FFFFFF;
     --rosa: #F17AFA;
@@ -7,5 +8,13 @@
     --laranja: #FAC07A;
     --marrom: #A68DA8;
     --azul2: #0047FF;
+    --botao-inativo: rgba(125, 210, 250, 0.5);
+    --botao-inativo: rgba(241, 122, 250, 0.5);
+    --botao-inativo: rgba(250, 192, 122, 0.5);
+    --botao-inativo: rgba(198, 250, 157, 0.5);
+    --botao-ativo:rgba(241, 122, 250, 1);
+    --botao-ativo:rgba(125, 210, 250, 1);
+    --botao-ativo:rgba(250, 192, 122, 1);
+    --botao-ativo:rgba(198, 250, 157, 1);
     
 }
