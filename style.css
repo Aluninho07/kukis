@@ -18,3 +18,12 @@
     --botao-ativo:rgba(198, 250, 157, 1);
     
 }
+body{
+    background-color: var(--branco);
+    color: var(--marrom);
+    font-family: 'Chakra Petch', 'Protest Revolution';
+}
+}
+
+
+
