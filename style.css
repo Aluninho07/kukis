@@ -23,7 +23,10 @@ body{
     color: var(--marrom);
     font-family: 'Chakra Petch', 'Protest Revolution';
 }
-
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
