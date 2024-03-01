@@ -44,6 +44,8 @@ body{
 
 .botao{
     font-family: 'Chakra Petch', 'Protest Revolution';
+    background-color: var(--botao-inativo);
+    color: var(--marrom);
 }
 
 
