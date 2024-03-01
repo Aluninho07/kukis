@@ -46,6 +46,11 @@ body{
     font-family: 'Chakra Petch', 'Protest Revolution';
     background-color: var(--botao-inativo);
     color: var(--marrom);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 10;
+    align-items: center;
 }
 
 
