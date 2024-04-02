@@ -34,9 +34,8 @@ body{
 }
 .titulo-principal{
     text-align: left;
-    widtscreenh: 100%;
+    width: 100%;
     font-size: 32px;
-    screen
 }
 .titulo-principal span{
     color: var(--verde);
