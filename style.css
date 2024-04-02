@@ -85,10 +85,10 @@ body{
 }
 .aba-conteudo-titulo-principal{
     font-size: 28px;
-    text-align: center;
+    text-align: bottom;
 }
 .aba-conteudo-titulo-secundario{
-    text-align: center;
+    text-align: bottom;
     color: var(--rosa);
     text-transform: uppercase;
 }
