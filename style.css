@@ -74,7 +74,7 @@ body{
 }
 .abas-textos{
     background-color: var(--laranja);
-    padding: 40px;
+    padding: 400px;
     border-radius: 0 0 40px 40px;
 }
 .aba-conteudo.ativo{
