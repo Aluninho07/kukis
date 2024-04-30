@@ -73,7 +73,7 @@ body{
     border-bottom: 4px solid var(--verde);
 }
 .abas-textos{
-    background-color: var(--branco);
+    background-color: var(--laranja);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
